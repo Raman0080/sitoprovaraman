@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; /*si mette un commento in css */
+}
+.d-block{
+    height: 500px;
+    width: 250px;
+}
+.carousel{
+        padding: 10px;
+        
+}
+
+.nav-link{
+    color: white
+}
+.navbar-brand{
+    color: white;
+    font-size: 50px;
+}
+.navbar{
+    background-color: #0084ff;
+    text-align: center;
+}
+
+.hr-lunghezza-card{
+    width: 20%;
+
+}
+.linea-orizzontale-centro{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: #0084ff;
+}
+.card-title{
+    color: #0084ff;
+    text-align: center;
+}
+.card-in-centro{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card-text1{
+    text-align: center;
+    padding: 10px;
+}
+.cit{
+    text-align: right;
+}
+.TITOLO-PAGINA{
+    font-size: 45px;
+    text-align: center;
+    color: #0084ff;
+    padding-top: 30px;
+}
