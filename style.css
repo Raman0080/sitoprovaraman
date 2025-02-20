@@ -18,7 +18,7 @@ body{
     font-size: 50px;
 }
 .navbar{
-    background-color: #0084ff;
+    background-color: #b3ff00;
     text-align: center;
 }
 
@@ -33,7 +33,7 @@ body{
     color: #0084ff;
 }
 .card-title{
-    color: #0084ff;
+    color:rgb(0, 0, 0);
     text-align: center;
 }
 .card-in-centro{
@@ -50,6 +50,6 @@ body{
 .TITOLO-PAGINA{
     font-size: 45px;
     text-align: center;
-    color: #0084ff;
+    color: #9c1212;
     padding-top: 30px;
 }
